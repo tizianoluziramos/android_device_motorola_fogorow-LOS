@@ -1,0 +1,22 @@
+# Audio
+persist.vendor.audiohal.besloudness_state=0
+
+# Camera
+persist.vendor.camera.physical.num=3
+
+# Display
+debug.sf.frame_rate_multiple_threshold=120
+debug.sf.high_speed_scroll_factor=0
+ro.surface_flinger.has_wide_color_display=false
+ro.surface_flinger.set_idle_timer_ms=250
+ro.surface_flinger.uclamp.min=512
+ro.vendor.display.sensortype=2
+ro.vendor.display.svi=1
+vendor.display.svi.config=1
+vendor.display.svi.config_path=/vendor/etc/SVIConfig.xml
+
+# NFC
+persist.vendor.nfc.config_file_name=libnfc-nci.conf
+
+# Radio
+ro.vendor.radio.imei.sv=10
